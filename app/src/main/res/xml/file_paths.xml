@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!-- 💡 方案 A：对应 context.getExternalFilesDir(Environment.DIRECTORY_PICTURES) -->
+    <!-- path="Pictures" 表示只允许访问该目录下的 Pictures 文件夹 -->
+    <external-files-path
+        name="my_external_pictures"
+        path="Pictures" />
+
+</paths>
