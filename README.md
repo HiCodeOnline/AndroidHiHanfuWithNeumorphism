@@ -11,6 +11,6 @@ https://cloudflare.hicode.online/posts/android-hihanfu-with-neumorphism/
 
 ## ❤支持开源
 
-关注作者微信公众号，即时获取最新源码咨询
+如果帮助到你，请关注一下作者微信公众号，即时获取最新源码咨询，同时增加作者收入以支持开源创作
 
 ![公众号图片](https://www.hicode.online/wxgzh.webp)
